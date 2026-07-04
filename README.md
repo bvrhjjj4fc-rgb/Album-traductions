@@ -1,1 +1,51 @@
 # Album-traductions
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Message de José Joel</title>
+</head>
+<body style="font-family: Arial; max-width:700px; margin:auto; padding:40px; line-height:1.6;">
+
+<h2>Traduction en français</h2>
+
+<p><strong>Rémito !</strong></p>
+
+<p>Mon grand frère,</p>
+
+<p>
+Je n'ai jamais été très doué pour écrire (j'ai du mal à mettre par écrit ce que je ressens), et à cette heure-ci, j'ai l'impression que je vais mourir.
+</p>
+
+<p>
+Je veux simplement te dire merci. Merci pour tout : pour la confiance que tu m'as accordée, pour ton amitié et pour toute l'affection que tu m'as donnée.
+</p>
+
+<p>
+Pendant les deux premières semaines, je me suis complètement pris la tête. Je croyais avoir fait une énorme erreur. Sans m'en rendre compte, je me privais de la chance de rencontrer une personne vraiment exceptionnelle.
+</p>
+
+<p>
+Je n'ai pas non plus les mots qu'il faudrait pour te remercier d'être réveillé depuis 3 h 30. Je sais que ça ne se voit pas, parce que j'ai toujours les yeux rouges, mais la vérité, c'est que j'ai envie de pleurer.
+</p>
+
+<p>(Je te dois un tableau.)</p>
+
+<p>
+Je t'aime,<br>
+José Joel… Viens seulement au Mexique, sinon je vais finir par partir en Suisse.
+</p>
+
+<p><strong>Je t'aime.</strong></p>
+
+<p>José Joel</p>
+
+<hr>
+
+<p style="font-size:0.9em;">
+❤️ Ne le dis à personne, frérot. Je veux simplement que tu saches que tu comptes énormément pour moi.
+Tu pourras toujours compter sur moi, quoi qu'il arrive.
+</p>
+
+</body>
+</html>
